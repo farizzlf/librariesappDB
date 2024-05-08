@@ -29,7 +29,7 @@ Book to Holds:
 Relationship Type: One-to-Many (One book can have multiple holds)
 Foreign Key: book_id in Holds references book_id in Books
 
-
+***
 **Business Rules**
 
 Books:
