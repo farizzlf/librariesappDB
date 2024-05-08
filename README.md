@@ -2,7 +2,7 @@
 create a complete database system for an online library app that can handle many libraries, different book collections, and interactions with users. This system will help users borrow books, place holds on items, and register accounts, all while making sure that the data is accurate, following our rules, and making the experience smooth for users.
 
 ---
-##**Table Relationships**
+**##Table Relationships**
 
 Library to Books:
 
@@ -30,7 +30,7 @@ Relationship Type: One-to-Many (One book can have multiple holds)
 Foreign Key: book_id in Holds references book_id in Books
 
 ***
-##**Business Rules**
+**##Business Rules**
 
 Books:
 
