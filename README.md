@@ -62,4 +62,4 @@ expiry_date: NOT NULL (to indicate when the hold expires)
 
 ## ERD
 
-[https://github.com/farizzlf/librariesappDB/blob/main/ERD/libraries_app_ERD.png](https://github.com/farizzlf/librariesappDB/blob/main/ERD/libraries_app_ERD.png?raw=true)
+![https://github.com/farizzlf/librariesappDB/blob/main/ERD/libraries_app_ERD.png](https://github.com/farizzlf/librariesappDB/blob/main/ERD/libraries_app_ERD.png?raw=true)
