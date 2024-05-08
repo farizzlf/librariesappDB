@@ -59,3 +59,7 @@ Holds:
 
 hold_date: NOT NULL
 expiry_date: NOT NULL (to indicate when the hold expires)
+
+## ERD
+
+![ERD] (https://github.com/farizzlf/librariesappDB/blob/main/ERD/libraries_app_ERD.png)
